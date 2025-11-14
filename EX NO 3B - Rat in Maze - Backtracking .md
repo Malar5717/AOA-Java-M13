@@ -27,7 +27,7 @@ Explanation: One possible way is : left -> down -> left -> down -> right -> down
 
 ## Program:
 
-### to implement Reverse a String
+### to implement rat in the maze
 
 ```java
 import java.util.*;

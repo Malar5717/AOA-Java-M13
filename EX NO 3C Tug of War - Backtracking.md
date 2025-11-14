@@ -30,7 +30,7 @@ Constraints:
 
 ## Program:
 
-### to implement Reverse a String
+### to implement tug-of-war
 
 ```java
 import java.util.Scanner;

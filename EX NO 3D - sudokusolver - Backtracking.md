@@ -17,7 +17,7 @@ For example:
 
 ## Program:
 
-### to implement Reverse a String
+### to implement Sudoku puzzle solver
 
 ```java
 public class Main {
