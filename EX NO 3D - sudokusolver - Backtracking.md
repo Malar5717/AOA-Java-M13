@@ -14,7 +14,8 @@ For example:
 3. For each digit, check if placing it is valid (row, column, 3×3 subgrid).
 4. If valid, place the digit and recursively try to fill the rest of the board.
 5. If no digit works, backtrack by resetting the cell to 0 and continue; otherwise, the puzzle is solved.
-
+#### Developed By: Malar Mariam S
+#### Register Number: 212223230118
 ## Program:
 
 ### to implement Sudoku puzzle solver
